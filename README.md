@@ -1,2 +1,2 @@
 # PiGames
-A Launcher for simple games, that can be rnn on a Raspberry Pi.
+A Launcher for simple games, that can be run on a Raspberry Pi.
